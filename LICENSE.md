@@ -1,6 +1,6 @@
-MIT License
+# The MIT License (MIT)
 
-Copyright (c) 2016 LAV KUMAR VISHWAKARMA
+Copyright (c) 2017 Paul Le
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
