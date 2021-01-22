@@ -22,7 +22,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           'Exploradora'
 description:	       'Una mirada a lo que buscas'
-author:              'Kriss MR'
+author:              'KMR CodeLove'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
