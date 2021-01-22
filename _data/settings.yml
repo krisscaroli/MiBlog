@@ -1,7 +1,7 @@
 # Change 'comments' to true for Disqus comments
 disqus:
   comments: false
-  disqus_shortname: 'https-lenpaul-github-io-lagrange'
+  disqus_shortname: 'https-krisscaroli-github-io-miblog-1'
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
 google-ID: 'UA-112060364-1'
@@ -25,8 +25,8 @@ pagination:
   next_page: 'Siguiente'
   previous_page: 'Anterior'
 
-sharing_button_prompt: 'Feel free to share!'
+sharing_button_prompt: 'Compartelo con tus amigos!'
 
-related_posts: 'You may also enjoy:'
+related_posts: 'Noticias relacionadas'
 
-post_date_prefix: 'Written on'
+post_date_prefix: 'Escrito en'
